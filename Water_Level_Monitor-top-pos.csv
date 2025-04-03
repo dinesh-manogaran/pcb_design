@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","LED","LED_D5.0mm",145.460000,-93.760000,0.000000,top
+"J1","Conn_02x01","PinHeader_1x02_P2.54mm_Vertical",144.500000,-107.225000,0.000000,top
+"J2","Conn_01x08","PinHeader_1x08_P2.54mm_Vertical",134.480000,-88.300000,0.000000,top
+"R1","R","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",137.880000,-82.000000,0.000000,top
